@@ -248,6 +248,12 @@ None — OSINT (Artifact 02).
 
 ### 🖼️ Screenshot
 <img width="792" height="612" alt="Flag05a_mason_reed_haveibeenpwned" src="https://github.com/user-attachments/assets/cc4b160a-279c-4807-bc72-b322d5bea22e" />
+<img width="347" height="553" alt="Flag05f_mason_reed_haveibeenpwned" src="https://github.com/user-attachments/assets/9a34d81b-21ad-4208-8f0a-1d1fa5ebf0de" />
+<img width="390" height="592" alt="Flag05e_mason_reed_haveibeenpwned" src="https://github.com/user-attachments/assets/0b981ddb-ba83-4dce-87dc-045017134a09" />
+<img width="349" height="769" alt="Flag05d_mason_reed_haveibeenpwned" src="https://github.com/user-attachments/assets/31eb165f-a8b8-4e47-91ad-4216392df63f" />
+<img width="260" height="520" alt="Flag05c_mason_reed_haveibeenpwned" src="https://github.com/user-attachments/assets/d7568e51-c31c-401a-a5ef-4cee55fcf9b7" />
+<img width="627" height="560" alt="Flag05b_mason_reed_haveibeenpwned" src="https://github.com/user-attachments/assets/717ce708-a2f7-492d-9a65-3ff91972eae1" />
+
 
 </details>
 
