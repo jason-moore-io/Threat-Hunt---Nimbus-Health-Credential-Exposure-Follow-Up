@@ -127,7 +127,6 @@ None — identified via OSINT artefact correlation, not telemetry.
 <img width="1448" height="1006" alt="Flag_01_Mason_Reed_Linkedin_Profile" src="https://github.com/user-attachments/assets/30f76029-93fd-4c2e-9ae1-040a2fb21449"/> <img width="705" height="201" alt="Flag01B_Nimbus_Health__Security_Operations" src="https://github.com/user-attachments/assets/f3c884d2-b871-4523-baed-ae069b0b0970" />
 
 
-
 </details>
 
 ---
@@ -294,9 +293,8 @@ DeviceLogonEvents
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="974" height="799" alt="Flag06_The Guessing Source" src="https://github.com/user-attachments/assets/df8d7deb-c453-4fec-8f38-4d861feb5454">
 
-<<img width="974" height="799" alt="Flag06_The Guessing Source" src="https://github.com/user-attachments/assets/df8d7deb-c453-4fec-8f38-4d861feb5454" />
 
 ---
 
