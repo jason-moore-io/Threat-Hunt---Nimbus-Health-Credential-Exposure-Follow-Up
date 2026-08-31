@@ -105,7 +105,7 @@ Once on the box, the operator ran a short, human-paced burst of native reconnais
 Identify the Nimbus account under review.
 
 ### 📌 Finding
-Cross-referencing the role matrix (Artefact 04) for recently joined accounts against the public LinkedIn profile (Artefact 01) identified the subject.
+Cross-referencing the role matrix (Artifact 04) for recently joined accounts against the public LinkedIn profile (Artifact 01) identified the subject.
 
 ### 🔍 Evidence
 
@@ -115,7 +115,7 @@ Cross-referencing the role matrix (Artefact 04) for recently joined accounts aga
 | Full Name | Mason Reed |
 | Role | IT Support Technician |
 | Start Date | 2026-04-28 |
-| Source | Artefact 01 (LinkedIn), Artefact 04 (Role Matrix) |
+| Source | Artifact 01 (LinkedIn), Artifact 04 (Role Matrix) |
 
 ### 💡 Why it matters
 Establishes the identity at the center of the entire hunt — every subsequent query is scoped to this account.
@@ -124,7 +124,8 @@ Establishes the identity at the center of the entire hunt — every subsequent q
 None — identified via OSINT artefact correlation, not telemetry.
 
 ### 🖼️ Screenshot
-<img width="1448" height="1006" alt="Flag_01_Mason_Reed_Linkedin_Profile" src="https://github.com/user-attachments/assets/30f76029-93fd-4c2e-9ae1-040a2fb21449" />
+<img width="1448" height="1006" alt="Flag_01_Mason_Reed_Linkedin_Profile" src="https://github.com/user-attachments/assets/30f76029-93fd-4c2e-9ae1-040a2fb21449" <img width="1448" height="1006" alt="Flag01A_Mason_Reed_Linkedin_Profile" src="https://github.com/user-attachments/assets/f5e75f30-3247-4933-b2b3-844fb6463254" />
+/>
 
 </details>
 
@@ -153,7 +154,7 @@ Confirms the account's employer, role, and — combined with his "About" text �
 None — OSINT.
 
 ### 🖼️ Screenshot
-<<img width="1448" height="1006" alt="Flag_02_Mason_Reed_Linkedin_Profile" src="https://github.com/user-attachments/assets/3ecf0e3b-d3be-4a96-a459-8b3f9a636213" />
+<img width="1448" height="1006" alt="Flag_02_Mason_Reed_Linkedin_Profile" src="https://github.com/user-attachments/assets/3ecf0e3b-d3be-4a96-a459-8b3f9a636213" />
 
 </details>
 
