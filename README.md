@@ -330,7 +330,7 @@ DeviceLogonEvents
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="1148" height="655" alt="Flag07_Login Type" src="https://github.com/user-attachments/assets/c1b482ad-8134-4194-90e7-26ddc405657b" />
 
 </details>
 
