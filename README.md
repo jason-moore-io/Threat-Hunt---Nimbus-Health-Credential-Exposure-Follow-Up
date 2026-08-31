@@ -1,3 +1,4 @@
+<img width="1448" height="1006" alt="Flag_01_Mason_Reed_Linkedin_Profile" src="https://github.com/user-attachments/assets/30f76029-93fd-4c2e-9ae1-040a2fb21449" />
 # 🛡️ Threat Hunt Report – Nimbus Health: Credential Exposure Follow-Up
 
 ---
