@@ -145,7 +145,7 @@ Job title as published verbatim on LinkedIn.
 
 | Field | Value |
 |------|-------|
-| Source | Artefact 01 (LinkedIn) |
+| Source | Artifact 01 (LinkedIn) |
 | Job Title | IT Support Technician at Nimbus Health |
 
 ### 💡 Why it matters
@@ -175,7 +175,7 @@ Personal email address listed publicly on the LinkedIn profile.
 
 | Field | Value |
 |------|-------|
-| Source | Artefact 01 (LinkedIn Contact Info) |
+| Source | Artifact 01 (LinkedIn Contact Info) |
 | Email | mason.reed@hotmail.com |
 
 ### 💡 Why it matters
@@ -185,7 +185,8 @@ This is the exact input an attacker would run through a breach-exposure lookup s
 None — OSINT.
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<<img width="1448" height="1006" alt="Flag03_Mason_Reed_Linkedin_Profile" src="https://github.com/user-attachments/assets/68aeb325-c828-4197-ab5e-41cabce7162c" />
+>
 
 </details>
 
