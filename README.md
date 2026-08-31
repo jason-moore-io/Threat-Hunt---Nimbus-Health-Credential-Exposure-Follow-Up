@@ -156,7 +156,7 @@ None — OSINT.
 
 ### 🖼️ Screenshot
 <<img width="1448" height="1006" alt="Flag02_Mason_Reed_Linkedin_Profile" src="https://github.com/user-attachments/assets/bf7c4fcd-54a1-4a0e-b077-6a27a41ea3d0" />
->
+
 
 </details>
 
@@ -186,7 +186,7 @@ None — OSINT.
 
 ### 🖼️ Screenshot
 <<img width="1448" height="1006" alt="Flag03_Mason_Reed_Linkedin_Profile" src="https://github.com/user-attachments/assets/68aeb325-c828-4197-ab5e-41cabce7162c" />
->
+
 
 </details>
 
@@ -247,7 +247,7 @@ Establishes the credible mechanism by which a still-working password reached the
 None — OSINT (Artefact 02).
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<<img width="792" height="612" alt="Flag05_mason_reed_haveibeenpwned" src="https://github.com/user-attachments/assets/e2ef21e9-34a2-474d-a99b-f05246855104" />
 
 </details>
 
