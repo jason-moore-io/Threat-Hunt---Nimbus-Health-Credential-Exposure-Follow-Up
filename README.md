@@ -153,8 +153,7 @@ Confirms the account's employer, role, and — combined with his "About" text �
 None — OSINT.
 
 ### 🖼️ Screenshot
-<[mason_reed_haveibeenpwned.pdf](https://github.com/user-attachments/files/31665215/mason_reed_haveibeenpwned.pdf)
->
+<[mason_reed_haveibeenpwned.pdf](https://github.com/user-attachments/files/31665215/mason_reed_haveibeenpwned.pdf)>
 
 </details>
 
