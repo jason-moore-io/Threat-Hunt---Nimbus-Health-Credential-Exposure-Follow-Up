@@ -368,7 +368,7 @@ DeviceLogonEvents
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="1133" height="649" alt="Flag8_SecondRemoteIP" src="https://github.com/user-attachments/assets/dd9c7993-c20b-4f08-a674-3e385611f8aa" />
 
 </details>
 
