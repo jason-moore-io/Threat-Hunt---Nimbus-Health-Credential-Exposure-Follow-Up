@@ -244,10 +244,10 @@ Three breaches returned for the personal email; only the most recent, purpose-bu
 Establishes the credible mechanism by which a still-working password reached the attacker.
 
 ### 🔧 KQL Query Used
-None — OSINT (Artefact 02).
+None — OSINT (Artifact 02).
 
 ### 🖼️ Screenshot
-<<img width="792" height="612" alt="Flag05_mason_reed_haveibeenpwned" src="https://github.com/user-attachments/assets/e2ef21e9-34a2-474d-a99b-f05246855104" />
+<img width="792" height="612" alt="Flag05a_mason_reed_haveibeenpwned" src="https://github.com/user-attachments/assets/cc4b160a-279c-4807-bc72-b322d5bea22e" />
 
 </details>
 
