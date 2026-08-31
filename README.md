@@ -124,7 +124,8 @@ Establishes the identity at the center of the entire hunt — every subsequent q
 None — identified via OSINT artefact correlation, not telemetry.
 
 ### 🖼️ Screenshot
-<img width="1448" height="1006" alt="Flag_01_Mason_Reed_Linkedin_Profile" src="https://github.com/user-attachments/assets/30f76029-93fd-4c2e-9ae1-040a2fb21449"/> [Flag01B_Nimbus_Health__Security_Operations.pdf](https://github.com/user-attachments/files/31665937/Flag01B_Nimbus_Health__Security_Operations.pdf)
+<img width="1448" height="1006" alt="Flag_01_Mason_Reed_Linkedin_Profile" src="https://github.com/user-attachments/assets/30f76029-93fd-4c2e-9ae1-040a2fb21449"/> <img width="705" height="201" alt="Flag01B_Nimbus_Health__Security_Operations" src="https://github.com/user-attachments/assets/f3c884d2-b871-4523-baed-ae069b0b0970" />
+
 
 
 </details>
