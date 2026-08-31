@@ -153,7 +153,7 @@ Confirms the account's employer, role, and — combined with his "About" text �
 None — OSINT.
 
 ### 🖼️ Screenshot
-<[mason_reed_haveibeenpwned.pdf](https://github.com/user-attachments/files/31665215/mason_reed_haveibeenpwned.pdf)>
+<<img width="1448" height="1006" alt="Flag_02_Mason_Reed_Linkedin_Profile" src="https://github.com/user-attachments/assets/3ecf0e3b-d3be-4a96-a459-8b3f9a636213" />
 
 </details>
 
