@@ -205,7 +205,7 @@ A cached internal IT reference document exposed the designated remote-support en
 
 | Field | Value |
 |------|-------|
-| Source | Artefact 03 (Cached Support Reference), corroborated by Artefact 04 |
+| Source | Artifact 03 (Cached Support Reference), corroborated by Artifact 04 |
 | System | NH-WKS-IT-01 |
 | Public IP | 135.237.163.62 |
 | Internal IP | 10.1.0.233 |
@@ -217,7 +217,7 @@ Confirms the exact host and address the attacker used, and that the document exp
 None — OSINT, cross-confirmed against Artefact 04's environment table.
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="340" height="280" alt="Flag04_Copy_of_Nimbus_Health__Security_Operations_Artifacts_May_-_Sheet1" src="https://github.com/user-attachments/assets/c872a340-aa34-438b-bab9-cb07662b77eb" />
 
 </details>
 
