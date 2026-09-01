@@ -51,8 +51,8 @@ A newly hired Nimbus Health IT Support Technician, Mason Reed (`m.reed`), publis
   - [🚩 Flag 20 – Proving Credential Reuse](#-flag-20)
   - [🚩 Flag 21 – The Second Session](#-flag-21)
   - [🚩 Flag 22 – Pre-Exfiltration Recon](#-flag-22)
-  - [🚩 Flag 23 – First Containment Action](#-flag-23)
-  - [🚩 Flag 24 – Data Obligation](#-flag-24)
+  - [🚩 Flag IR1 – First Containment Action](#-flag-IR1)
+  - [🚩 Flag IR2 – Data Obligation](#-flag-IR2)
 - [🚨 Detection Gaps & Recommendations](#-detection-gaps--recommendations)
 - [🧾 Final Assessment](#-final-assessment)
 - [📎 Analyst Notes](#-analyst-notes)
@@ -900,7 +900,7 @@ DeviceProcessEvents
 ---
 
 <details>
-<summary id="-flag-23">🚩 <strong>Flag 23 (IR1): First Containment Action</strong></summary>
+<summary id="-flag-IR1">🚩 <strong>Flag IR1: First Containment Action</strong></summary>
 
 ### 🎯 Objective
 Define the correct first containment step against the clinic's "reset the password" assumption.
@@ -927,7 +927,7 @@ None — incident response synthesis.
 ---
 
 <details>
-<summary id="-flag-24">🚩 <strong>Flag 24: Data Obligation</strong></summary>
+<summary id="-flag-IR2">🚩 <strong>Flag IR-2: Data Obligation</strong></summary>
 
 ### 🎯 Objective
 Determine what regulatory/legal obligation the exfiltrated data creates.
