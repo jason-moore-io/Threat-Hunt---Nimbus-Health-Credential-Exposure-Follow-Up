@@ -628,7 +628,7 @@ Marks the transition from collection to preparation for exfiltration.
 Derived from Flag 14 DeviceFileEvents results — no separate query required.
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="1153" height="475" alt="Flag 15_" src="https://github.com/user-attachments/assets/cc66014f-b502-4aa8-8363-54a92857c7a6" />
 
 </details>
 
