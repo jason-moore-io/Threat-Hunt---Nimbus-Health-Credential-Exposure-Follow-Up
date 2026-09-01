@@ -927,7 +927,7 @@ None — incident response synthesis.
 ---
 
 <details>
-<summary id="-flag-IR2">🚩 <strong>Flag IR-2: Data Obligation</strong></summary>
+<summary id="-flag-IR2">🚩 <strong>Flag IR2: Data Obligation</strong></summary>
 
 ### 🎯 Objective
 Determine what regulatory/legal obligation the exfiltrated data creates.
