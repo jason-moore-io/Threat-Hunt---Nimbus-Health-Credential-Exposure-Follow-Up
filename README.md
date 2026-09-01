@@ -657,8 +657,6 @@ Explains how data left the estate without triggering conventional network-based 
 ### 🔧 KQL Query Used
 Derived from Flag 14 DeviceFileEvents results — no separate query required.
 
-### 🖼️ Screenshot
-<Insert screenshot>
 
 </details>
 
