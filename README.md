@@ -923,8 +923,6 @@ A reset-only response leaves active sessions and the underlying exposure vectors
 ### 🔧 KQL Query Used
 None — incident response synthesis.
 
-### 🖼️ Screenshot
-<Insert screenshot>
 
 </details>
 
@@ -952,8 +950,6 @@ Reframes the incident from an internal access-control issue into a compliance an
 ### 🔧 KQL Query Used
 None — derived from Flag 14 file contents.
 
-### 🖼️ Screenshot
-<Insert screenshot>
 
 </details>
 
