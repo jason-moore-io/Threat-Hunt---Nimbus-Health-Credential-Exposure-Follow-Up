@@ -599,7 +599,8 @@ DeviceFileEvents
 ```
 
 ### 🖼️ Screenshot
-<img width="1146" height="465" alt="Flag 14_" src="https://github.com/user-attachments/assets/e062f231-3a7f-4307-aed3-c4861317bd52" />
+<img width="1199" height="722" alt="Flag 14a" src="https://github.com/user-attachments/assets/dbc55b22-29e7-4f50-b9aa-9f549a9e5929" />
+
 
 </details>
 
@@ -703,7 +704,9 @@ DeviceEvents
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="1202" height="425" alt="Flag 17a_" src="https://github.com/user-attachments/assets/d35d12ca-e8ef-416a-b882-0cde329f3cf6" />
+<img width="1178" height="426" alt="Flag 17b_" src="https://github.com/user-attachments/assets/d5442477-d057-4c06-b478-1cd2d0c1d18a" />
+
 
 </details>
 
