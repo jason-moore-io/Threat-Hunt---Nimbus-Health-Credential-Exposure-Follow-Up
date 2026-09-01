@@ -749,7 +749,6 @@ DeviceLogonEvents
 ```
 
 ### 🖼️ Screenshot
-<img width="1178" height="426" alt="Flag 18b_" src="https://github.com/user-attachments/assets/acddca08-d12f-470f-9057-ea43d95089e3" />
 <img width="1202" height="425" alt="Flag 18a_" src="https://github.com/user-attachments/assets/d459eeca-4ef7-4285-9850-06f5ef1a263d" />
 
 
